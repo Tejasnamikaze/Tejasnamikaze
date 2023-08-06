@@ -12,13 +12,13 @@ I am currently pursuing my B.E in Information Science and Engineering at BMS Col
 
 ## Skills
 
-- Programming Languages: [ C , C++ , Python , Java]
-- Web Development: [ HTML , CSS , JavaScript , PHP , Jquery , React ]
-- Database: [My SQL , MongoDB]
-- Version Control: [Git]
+- Programming Languages:  C , C++ , Python , Java
+- Web Development:  HTML , CSS , JavaScript , PHP , Jquery , React 
+- Database: My SQL , MongoDB
+- Version Control: Git
 
-- Teamwork: [I work really good with Teams]
-- ... (Include any other relevant skills.)
+- Teamwork: I work really good with Teams
+
 
 ## Contact
 
